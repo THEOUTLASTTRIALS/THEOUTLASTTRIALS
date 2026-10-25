@@ -7,6 +7,11 @@
 <p align="center">
 play the outlast trials
 
+<p align="center">
+Hello its me Franco Barbi Play my trials
+
+<p align="center">
+Hello its me Leland Coyle Play my trials
 
 <p align="center">
 wip profile ok
