@@ -14,6 +14,11 @@ Hello its me Franco Barbi Play my trials
 Hello its me Leland Coyle Play my trials
 
 <p align="center">
-wip profile ok
+  
+[main](https://github.com/FORCEDNATURE) [ata](https://literallyscout.atabook.org) [straw](https://forcednature.straw.page)
 
-go to my main @FORCEDNATURE
+<p align="center">
+neufic neuship
+
+<p align="center">
+ill theme this l8rrrrr 
