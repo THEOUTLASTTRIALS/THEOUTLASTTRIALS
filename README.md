@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**THEOUTLASTTRIALS/THEOUTLASTTRIALS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+<img width="560" height="403" alt="image" src="https://github.com/user-attachments/assets/a198dfef-beba-426c-9066-ef5831d8657f" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+play the outlast trials
+
+
+<p align="center">
+wip profile ok
+
+go to my main @FORCEDNATURE
