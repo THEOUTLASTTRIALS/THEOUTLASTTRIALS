@@ -7,7 +7,7 @@ c+h enc . w2i always
 
 
   
-[main](https://github.com/FORCEDNATURE) [ata](https://literallyscout.atabook.org) [straw](https://forcednature.straw.page)
+[main](https://github.com/FORCEDNATURE) [ata](https://asspancakes.org) [straw](https://forcednature.straw.page)
 
 <p align="center">
 neufic neuship
